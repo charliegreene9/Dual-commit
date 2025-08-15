@@ -164,3 +164,4 @@ cython_debug/
 Development_spec.json
 .python-version
 uv.lock
+tester.py

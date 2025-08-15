@@ -24,3 +24,5 @@ for /f "tokens=2 delims==" %%i in (%ENV_FILE%) do (
 ::token.save!
 ::";
 ::'
+
+:: Get all info from commit using git log -1 HEAD

@@ -2,3 +2,8 @@ ruff
 psutil
 gputil
 pre-commit
+selenium
+chromedriver_autoinstaller
+dotenv
+pyperclip
+pyautogui
